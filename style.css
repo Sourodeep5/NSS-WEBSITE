@@ -13,7 +13,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: blue;
+    background-color: rgb(65, 107, 197);
     color: white;
 
 }
